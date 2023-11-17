@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background: grey;
+    display: block;
+    margin-top: 20px;
+}
+.premier{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    background: rgb(86, 83, 83);
+}
+input{
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.prim{
+    display: block;
+}
+.prim button{
+    margin-top: 10px;
+}
